@@ -1,0 +1,5 @@
+{
+  "google_client_id": "YOUR_CLIENT_ID.apps.googleusercontent.com",
+  "google_client_secret": "YOUR_CLIENT_SECRET",
+  "cloud_code_base_url": "https://daily-cloudcode-pa.sandbox.googleapis.com"
+}
